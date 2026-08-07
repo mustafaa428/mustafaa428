@@ -28,7 +28,6 @@
 🛠️  .NET Core  •  C#  •  PostgreSQL  •  Redis  •  RabbitMQ
 🐳  Containerised everything with Docker
 🔄  Clean Code  •  SOLID  •  CQRS  •  Event-Driven Design
-📍  Istanbul, Turkey
 
 <table>
   <tr>
