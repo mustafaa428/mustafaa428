@@ -1,29 +1,28 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=2563eb&height=3&section=header" width="100%" />
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=2563eb&height=3&section=header" width="100%" />
 
-<br/>
+  <br/>
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=28&pause=1000&color=2563EB&center=true&vCenter=true&width=480&lines=Hi+%F0%9F%91%8B+I'm+Mustafa+Arslan;Backend+Developer;Software+Engineer" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=28&pause=1000&color=2563EB&center=true&vCenter=true&width=480&lines=Hi+%F0%9F%91%8B+I'm+Mustafa+Arslan;Backend+Developer;Software+Engineer" alt="Typing SVG" />
 
-<br/><br/>
+  <br/><br/>
 
-<a href="https://linkedin.com/in/mustafarslan49">
-  <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white"/>
-</a>
-&nbsp;
-<a href="mustafarslan.dev@gmail.com">
-  <img src="https://img.shields.io/badge/Gmail-EA4335?style=flat-square&logo=gmail&logoColor=white"/>
-</a>
-&nbsp;
-<a href="https://medium.com/@mustafarslan0214">
-  <img src="https://img.shields.io/badge/Medium-000000?style=flat-square&logo=medium&logoColor=white"/>
-</a>
-&nbsp;
-<img src="https://komarev.com/ghpvc/?username=mustafaa428&color=2563eb&style=flat-square&label=profile+views"/>
+  <a href="https://linkedin.com/in/mustafarslan49" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white"/>
+  </a>
+  &nbsp;
+  <a href="mailto:mustafarslan.dev@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-EA4335?style=flat-square&logo=gmail&logoColor=white"/>
+  </a>
+  &nbsp;
+  <a href="https://medium.com/@mustafarslan0214" target="_blank">
+    <img src="https://img.shields.io/badge/Medium-000000?style=flat-square&logo=medium&logoColor=white"/>
+  </a>
+  &nbsp;
+  <img src="https://komarev.com/ghpvc/?username=mustafaa428&color=2563eb&style=flat-square&label=profile+views"/>
 
 </div>
-
 
 ```text
 🏗️  Building scalable backend systems & distributed architecture
