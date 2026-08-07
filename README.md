@@ -25,7 +25,7 @@
 </div>
 
 🏗️  Building scalable backend systems & distributed architecture
-🛠️  .NET Core  •  C#  •  PostgreSQL  •  Redis  •  RabbitMQ
+🛠️  .NET Core  •  C#  •  SQL (PostgreSQL, MS SQL)  •  NoSQL (Redis, MongoDB)  •  RabbitMQ
 🐳  Containerised everything with Docker
 🔄  Clean Code  •  SOLID  •  CQRS  •  Event-Driven Design
 
@@ -42,6 +42,14 @@
     <td align="center" width="85">
       <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" width="38"/><br/>
       <sub><b>PostgreSQL</b></sub>
+    </td>
+    <td align="center" width="85">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/microsoftsqlserver/microsoftsqlserver-original.svg" width="38"/><br/>
+      <sub><b>MS SQL</b></sub>
+    </td>
+    <td align="center" width="85">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" width="38"/><br/>
+      <sub><b>NoSQL</b></sub>
     </td>
     <td align="center" width="85">
       <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redis/redis-original.svg" width="38"/><br/>
@@ -86,9 +94,6 @@
     </td>
   </tr>
 </table>
-
-<br/>
-
 
 <br/><br/>
 
