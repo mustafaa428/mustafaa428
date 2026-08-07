@@ -78,22 +78,12 @@
 
 <br/><br/>
 
-<table>
-  <tr>
-    <td align="center">
-      <img src="https://img.shields.io/badge/Total%20Commits-423-2563eb?style=for-the-badge&logo=github&logoColor=white&labelColor=eff6ff"/>
-    </td>
-    <td align="center">
-      <img src="https://img.shields.io/badge/Current%20Streak-3%20days-3b82f6?style=for-the-badge&logo=firefoxbrowser&logoColor=white&labelColor=eff6ff"/>
-    </td>
-    <td align="center">
-      <img src="https://img.shields.io/badge/Longest%20Streak-17%20days-1d4ed8?style=for-the-badge&logo=lightning&logoColor=white&labelColor=eff6ff"/>
-    </td>
-    <td align="center">
-      <img src="https://img.shields.io/badge/Since-Jun%202022-60a5fa?style=for-the-badge&logo=googlecalendar&logoColor=white&labelColor=eff6ff"/>
-    </td>
-  </tr>
-</table>
+<div align="center">
+  <img src="https://img.shields.io/badge/Total_Commits-423-2563eb?style=for-the-badge&logo=github&logoColor=white&labelColor=eff6ff"/>
+  <img src="https://img.shields.io/badge/Current_Streak-3_days-3b82f6?style=for-the-badge&logo=firefoxbrowser&logoColor=white&labelColor=eff6ff"/>
+  <img src="https://img.shields.io/badge/Longest_Streak-17_days-1d4ed8?style=for-the-badge&logo=lightning&logoColor=white&labelColor=eff6ff"/>
+  <img src="https://img.shields.io/badge/Since-Jun_2022-60a5fa?style=for-the-badge&logo=googlecalendar&logoColor=white&labelColor=eff6ff"/>
+</div>
 
 <br/><br/>
 
