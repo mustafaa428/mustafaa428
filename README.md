@@ -54,7 +54,7 @@ currently   : Building robust microservices with .NET Core
 ### 🗄️ Databases & Caching
 <p>
   <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Microsoft_SQL_Server-CC2927?style=for-the-badge&logo=microsoftsqlserver&logoColor=white"/>
+  <img src="https://img.shields.io/badge/SQL_Server-CC2927?style=for-the-badge&logo=microsoftsqlserver&logoColor=white"/>
   <img src="https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white"/>
   <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white"/>
 </p>
@@ -111,15 +111,18 @@ currently   : Building robust microservices with .NET Core
 
 ## 📊 GitHub Statistics
 
+<!-- ⚠️ ÖNEMLI: YOUR_VERCEL_URL kısmını kendi Vercel URL'inle değiştir -->
+<!-- Örnek: https://github-readme-stats-mustafa.vercel.app -->
+
 <div align="center">
 
 <img
-  src="https://github-readme-stats.vercel.app/api?username=mustafaa428&show_icons=true&theme=default&hide_border=true&count_private=true&bg_color=ffffff&title_color=2563eb&icon_color=3b82f6&text_color=374151&ring_color=2563eb&include_all_commits=true&custom_title=GitHub+Stats&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage"
+  src="https://mustafaa428-di6644et8-mustafarslan0214-6881s-projects.vercel.app/api?username=mustafaa428&show_icons=true&theme=default&hide_border=true&count_private=true&bg_color=ffffff&title_color=2563eb&icon_color=3b82f6&text_color=374151&ring_color=2563eb&include_all_commits=true&custom_title=GitHub+Stats"
   width="48%"
 />
 &nbsp;
 <img
-  src="https://github-readme-stats.vercel.app/api/top-langs/?username=mustafaa428&layout=donut&theme=default&hide_border=true&hide=html,css,scss&bg_color=ffffff&title_color=2563eb&text_color=374151&langs_count=8"
+  src="https://mustafaa428-di6644et8-mustafarslan0214-6881s-projects.vercel.app/api/top-langs/?username=mustafaa428&layout=donut&theme=default&hide_border=true&hide=html,css,scss&bg_color=ffffff&title_color=2563eb&text_color=374151&langs_count=8"
   width="36%"
 />
 
@@ -145,7 +148,7 @@ currently   : Building robust microservices with .NET Core
 <div align="center">
 
 <img
-  src="https://github-profile-trophy.vercel.app/?username=mustafaa428&theme=flat&no-frame=true&no-bg=true&margin-w=10&column=7&rank=SECRET,SSS,SS,S,AAA,AA,A,B"
+  src="https://mustafaa428-di6644et8-mustafarslan0214-6881s-projects.vercel.app/?username=mustafaa428&theme=flat&no-frame=true&no-bg=true&margin-w=10&column=7&rank=SECRET,SSS,SS,S,AAA,AA,A,B"
   width="100%"
 />
 
