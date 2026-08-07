@@ -13,7 +13,7 @@ jobs:
     timeout-minutes: 5
     
     steps:
-      # Snake SVG üretimi - Şık Lacivert/GitHub Koyu Tema Paleti
+      # Snake SVG üretimi - Şık Lacivert / GitHub Koyu Tema Paleti
       - name: generate github-contribution-grid-snake.svg
         uses: Platane/snk/svg-only@v3
         with:
