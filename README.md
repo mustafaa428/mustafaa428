@@ -1,17 +1,13 @@
-cat > /mnt/user-data/outputs/README.md << 'ENDOFFILE'
 <div align="center">
 
-<!-- TOP LINE -->
 <img src="https://capsule-render.vercel.app/api?type=rect&color=2563eb&height=3&section=header" width="100%" />
 
 <br/>
 
-<!-- NAME & TITLE -->
 <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=28&pause=1000&color=2563EB&center=true&vCenter=true&width=480&lines=Hi+%F0%9F%91%8B+I'm+Mustafa+Arslan;Backend+Developer;Software+Engineer" alt="Typing SVG" />
 
 <br/><br/>
 
-<!-- SOCIAL -->
 <a href="https://linkedin.com/in/mustafarslan49">
   <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white"/>
 </a>
@@ -28,9 +24,6 @@ cat > /mnt/user-data/outputs/README.md << 'ENDOFFILE'
 
 </div>
 
----
-
-## `whoami`
 
 ```text
 🏗️  Building scalable backend systems & distributed architecture
@@ -40,9 +33,6 @@ cat > /mnt/user-data/outputs/README.md << 'ENDOFFILE'
 📍  Istanbul, Turkey
 ```
 
----
-
-## Stack
 
 <table>
   <tr>
@@ -81,13 +71,9 @@ cat > /mnt/user-data/outputs/README.md << 'ENDOFFILE'
   </tr>
 </table>
 
----
-
-## Metrics
 
 <div align="center">
 
-<!-- Stats + Donut chart -->
 <img
   src="https://github-readme-stats.vercel.app/api?username=mustafaa428&show_icons=true&theme=default&hide_border=true&count_private=true&bg_color=ffffff&title_color=2563eb&icon_color=3b82f6&text_color=374151&ring_color=2563eb&include_all_commits=true&custom_title=GitHub+Stats"
   width="48%"
@@ -99,15 +85,12 @@ cat > /mnt/user-data/outputs/README.md << 'ENDOFFILE'
 
 <br/><br/>
 
-<!-- Streak — açık tema -->
 <img
   src="https://github-readme-streak-stats.herokuapp.com/?user=mustafaa428&theme=default&hide_border=true&background=ffffff&ring=2563eb&fire=3b82f6&currStreakLabel=2563eb&sideLabels=6b7280&dates=9ca3af&stroke=e5e7eb&currStreakNum=111827&sideNums=111827"
   width="68%"
 />
 
 <br/><br/>
-
-<!-- Dinamik badge satırı — actions tarafından güncellenir -->
 <table>
   <tr>
     <td align="center">
@@ -127,7 +110,6 @@ cat > /mnt/user-data/outputs/README.md << 'ENDOFFILE'
 
 <br/>
 
-<!-- Trophy — açık tema -->
 <img
   src="https://github-profile-trophy.vercel.app/?username=mustafaa428&theme=flat&no-frame=true&no-bg=true&margin-w=8&column=7&rank=SECRET,SSS,SS,S,AAA,AA,A,B"
   width="100%"
@@ -135,17 +117,12 @@ cat > /mnt/user-data/outputs/README.md << 'ENDOFFILE'
 
 <br/><br/>
 
-<!-- Activity graph — açık tema -->
 <img
   src="https://github-readme-activity-graph.vercel.app/graph?username=mustafaa428&theme=minimal&area=true&hide_border=true&bg_color=ffffff&color=2563eb&line=3b82f6&point=1d4ed8&area_color=bfdbfe&title_color=2563eb&custom_title=30-Day+Contribution+Activity"
   width="100%"
 />
 
 </div>
-
----
-
-## Contribution
 
 <div align="center">
   <picture>
@@ -155,10 +132,7 @@ cat > /mnt/user-data/outputs/README.md << 'ENDOFFILE'
   </picture>
 </div>
 
----
-
 <div align="center">
   <img src="https://capsule-render.vercel.app/api?type=rect&color=2563eb&height=3&section=footer" width="100%" />
 </div>
-ENDOFFILE
-echo "Done"
+
