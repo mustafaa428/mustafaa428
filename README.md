@@ -24,14 +24,11 @@
 
 </div>
 
-```text
 🏗️  Building scalable backend systems & distributed architecture
 🛠️  .NET Core  •  C#  •  PostgreSQL  •  Redis  •  RabbitMQ
 🐳  Containerised everything with Docker
 🔄  Clean Code  •  SOLID  •  CQRS  •  Event-Driven Design
 📍  Istanbul, Turkey
-```
-
 
 <table>
   <tr>
@@ -70,15 +67,14 @@
   </tr>
 </table>
 
-
 <div align="center">
 
 <img
-  src="https://github-readme-stats.vercel.app/api?username=mustafaa428&show_icons=true&theme=default&hide_border=true&count_private=true&bg_color=ffffff&title_color=2563eb&icon_color=3b82f6&text_color=374151&ring_color=2563eb&include_all_commits=true&custom_title=GitHub+Stats"
+  src="https://github-readme-stats-eight-vector.vercel.app/api?username=mustafaa428&show_icons=true&theme=default&hide_border=true&count_private=true&bg_color=ffffff&title_color=2563eb&icon_color=3b82f6&text_color=374151&ring_color=2563eb&include_all_commits=true&custom_title=GitHub+Stats"
   width="48%"
 />
 <img
-  src="https://github-readme-stats.vercel.app/api/top-langs/?username=mustafaa428&layout=donut&theme=default&hide_border=true&hide=html,css,scss&bg_color=ffffff&title_color=2563eb&text_color=374151&langs_count=6"
+  src="https://github-readme-stats-eight-vector.vercel.app/api/top-langs/?username=mustafaa428&layout=donut&theme=default&hide_border=true&hide=html,css,scss&bg_color=ffffff&title_color=2563eb&text_color=374151&langs_count=6"
   width="36%"
 />
 
@@ -90,6 +86,7 @@
 />
 
 <br/><br/>
+
 <table>
   <tr>
     <td align="center">
@@ -134,4 +131,3 @@
 <div align="center">
   <img src="https://capsule-render.vercel.app/api?type=rect&color=2563eb&height=3&section=footer" width="100%" />
 </div>
-
