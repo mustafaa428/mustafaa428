@@ -1,11 +1,8 @@
 name: generate animation
 
 on:
-  # Her gün gece yarısı otomatik çalışır
   schedule:
     - cron: "0 0 * * *" 
-  
-  # Manuel olarak da başlatabilmenizi sağlar
   workflow_dispatch:
 
 jobs:
@@ -16,16 +13,14 @@ jobs:
     timeout-minutes: 5
     
     steps:
-      # Sizin katkı grafiğinizden yılan SVG'si üretir
       - name: generate github-contribution-grid-snake.svg
         uses: Platane/snk/svg-only@v3
         with:
           github_user_name: ${{ github.repository_owner }}
           outputs: |
-            dist/github-contribution-grid-snake.svg
-            dist/github-contribution-grid-snake-dark.svg?palette=github-dark
+            dist/github-contribution-grid-snake-dark.svg?palette=github-dark&color_snake=#a855f7&color_dots=#161b22,#2e1065,#581c87,#7e22ce,#a855f7
+            dist/github-contribution-grid-snake.svg?palette=github-light&color_snake=#7e22ce
 
-      # Üretilen görseli 'output' adlı ayrı bir dala (branch) kaydeder
       - name: push github-contribution-grid-snake.svg to the output branch
         uses: crazy-max/ghaction-github-pages@v3.1.0
         with:
